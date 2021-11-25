@@ -18,4 +18,6 @@
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=black">
   <img src="ttps://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+  
+ ![Snake animation](https://github.com/GuilhermeCarluz/GuilhermeCarluz/blob/output/github-contribution-grid-snake.svg)
 </div>
