@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Guilherme Luz.
 
-- 💻 Desenvolvedor Júnior (Em desenvolvimento)
+- 💻 Desenvolvedor Júnior
 - 👨🏾‍🎓 Aluno da Generation Brasil
 - 😁 Pronomes: ele/dele
 <div align="center">
