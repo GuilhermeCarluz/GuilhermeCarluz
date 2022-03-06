@@ -1,7 +1,6 @@
 ### Olá! Eu sou o Guilherme Luz.
 
 - 💻 Desenvolvedor Júnior
-- 👨🏾‍🎓 Aluno da Generation Brasil
 - 😁 Pronomes: ele/dele
 <div align="center">
   <a href="https://github.com/GuilhermeCarluz">
